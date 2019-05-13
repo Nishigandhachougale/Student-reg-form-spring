@@ -1,0 +1,10 @@
+ insert into student values(101,'kolhapur',22,'nishigandha','java');
+insert into student values(102,'pune',23,'ankita','java');
+insert into student values(103,'pune',22,'shrikrushna','java');
+insert into student values(104,'mumbai',23,'subhash','springboot');
+insert into student values(105,'karad',25,'sai','java');
+insert into student values(106,'nanded',26,'divya','python');
+insert into student values(107,'pune',23,'pooja','java');
+insert into student values(108,'chennai',28,'jyoti','spring');
+insert into student values(109,'satara',29,'snehal','python');
+insert into student values(110,'mumbai',23,'surabhi','java');
